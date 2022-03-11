@@ -3,6 +3,8 @@
 1) Make sure your system have all required libraries or install manually.
 2) You should have Twitter API.
 
+Colab Book - https://colab.research.google.com/drive/1wS5mycqrjfUh42gpBZG7VZMKZpijVZ2Z#scrollTo=pgtfkP1U_1ZZ
+
 How to get twitter API
 
 i) You have to open url 'https://developer.twitter.com/'
