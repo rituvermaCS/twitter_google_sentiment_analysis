@@ -13,4 +13,4 @@ iii) Go to dashboard and create app. \
 iv) Fill required details, make sure you are email and contact number verified. \
 v) There you can get your api's. \
 vi) Where you have to copy (API Key and Secret) from Consumer Keys and (Access Token and Secret) from Authentication Tokens. \
-vii) Make sure it has to elevated access to get the data from twitter. \
+vii) Make sure it has to elevated access to get the data from twitter. 
