@@ -7,7 +7,7 @@ Colab Book - https://colab.research.google.com/drive/1wS5mycqrjfUh42gpBZG7VZMKZp
 
 How to get twitter API
 
-i) You have to open url 'https://developer.twitter.com/'
+i) You have to open url 'https://developer.twitter.com/'\
 ii) SignUp using your existing twitter account, if you don't have twitter account firstly create it using 'https://twitter.com/'
 iii) Go to dashboard and create app
 iv) Fill required details, make sure you are email and contact number verified.
